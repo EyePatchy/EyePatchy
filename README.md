@@ -1,5 +1,5 @@
 # 💫 About Me:
-You can know me better by clicking [here](eyepatchy.github.io).
+You can know me better by clicking [here](https://eyepatchy.github.io/).
 
 
 # 💻 Tech Stack:
